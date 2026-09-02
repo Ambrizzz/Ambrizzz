@@ -26,22 +26,13 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate trophy card
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
-          file: profile/trophy.svg
-          token: ${{ secrets.TROPHY_TOKEN }}
-
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            profile/snake.svg
-            profile/snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          options: theme=tokyo-night&hide_border=true&area=true
+          output_path: profile/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
