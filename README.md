@@ -4,7 +4,7 @@
 
 </div>
 
-<h3 align="center">Software Engineering & CS student @ Tecnológico de Monterrey 🇲🇽</h3>
+<h3 align="center">Computer Science student @ Tecnológico de Monterrey 🇲🇽</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;Building+full-stack+web+apps;Always+shipping+side+projects;Based+in+Mexico+City;&font=Fira+Code&center=true&width=440&height=40&color=38bdf8&vCenter=true&size=22" />
@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Studying **Software Engineering & Computer Science** at **Tec de Monterrey**
+- 🎓 Studying **Computer Science** at **Tec de Monterrey**
 - 💻 I like building and shipping full-stack web apps end to end — frontend, backend, and deployment
 - 🌱 Currently exploring new stacks and leveling up my web dev skills
 - 📫 Reach me on the links below!
@@ -46,8 +46,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ambrizzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ambrizzz&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-black.vercel.app/api?username=Ambrizzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=Ambrizzz&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
