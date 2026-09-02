@@ -48,6 +48,7 @@
     <td width="33%">
       <h4>🏆 NFL Playoff Bracket</h4>
       <p>Bracket prediction pool for the 2025–26 NFL playoffs — layout, scoring logic, and an admin dashboard, hosted on Vercel.</p>
+      <a href="https://github.com/Ambrizzz/quiniela-nfl-playoffs">Go to the repository →</a>
     </td>
     <td width="33%">
       <h4>⚽ WorldCupSwap</h4>
