@@ -15,17 +15,23 @@
 ### 🚀 About Me
 
 - 🎓 Studying **Software Engineering & Computer Science** at **Tec de Monterrey**
-- 🧑‍🏫 Volunteered as staff at the **Patrones Hermosos** STEM camp
 - 💻 I like building and shipping full-stack web apps end to end — frontend, backend, and deployment
 - 🌱 Currently exploring new stacks and leveling up my web dev skills
 - 📫 Reach me on the links below!
+
+<p align="center">
+  <a href="https://linkedin.com/in/iker-ambriz-rodriguez'">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/YOUR-X-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
 ### 🧰 Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,mysql,firebase,vercel,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,mysql,firebase,vercel,git" />
 </div>
 
 ---
@@ -61,16 +67,6 @@
 <div align="center">
   <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Ambrizzz&theme=tokyonight&hide_border=true" />
 </div>
-
----
-
-### 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/YOUR-X-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:1e3a8a&height=100&section=footer" />
