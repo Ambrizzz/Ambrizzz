@@ -4,7 +4,7 @@
 
 </div>
 
-<h3 align="center">Web Developer &Computer Science student @ Tecnológico de Monterrey 🇲🇽</h3>
+<h3 align="center">Web Developer & Computer Science student @ Tecnológico de Monterrey 🇲🇽</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;Building+full-stack+web+apps;Always+shipping+side+projects;Based+in+Mexico+City;&font=Fira+Code&center=true&width=440&height=40&color=38bdf8&vCenter=true&size=22" />
