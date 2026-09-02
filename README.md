@@ -15,7 +15,6 @@
 ### 🚀 About Me
 
 - 🎓 Studying **Software Engineering & Computer Science** at **Tec de Monterrey**
-- 🧑‍🏫 Volunteered as staff at the **Patrones Hermosos** STEM camp
 - 💻 I like building and shipping full-stack web apps end to end — frontend, backend, and deployment
 - 🌱 Currently exploring new stacks and leveling up my web dev skills
 - 📫 Reach me on the links below!
