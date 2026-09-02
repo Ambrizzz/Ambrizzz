@@ -43,7 +43,7 @@
     <td width="33%">
       <h4>🏈 kickoff.click</h4>
       <p>Real-time NFL scores, standings, schedules & news platform. Built backend API integrations and shipped it live.</p>
-      <a href="https://github.com/Ambrizzz/KickOff-2">Go to the repo →</a>
+      <a href="https://github.com/Ambrizzz/KickOff-2">Go to the repository →</a>
     </td>
     <td width="33%">
       <h4>🏆 NFL Playoff Bracket</h4>
