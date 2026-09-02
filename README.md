@@ -53,20 +53,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ambrizzz&theme=tokyonight&hide_border=true" />
 </div>
 
-### 🏆 Trophies
-
 <div align="center">
-  <img src="./profile/trophy.svg" />
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg" />
-    <img alt="github contribution snake animation" src="./profile/snake.svg" />
-  </picture>
+  <img width="100%" src="./profile/activity-graph.svg" />
 </div>
 
 ---
