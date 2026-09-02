@@ -20,7 +20,7 @@
 - 📫 Reach me on the links below!
 
 <p align="center">
-  <a href="https://linkedin.com/in/iker-ambriz-rodriguez'">
+  <a href="https://linkedin.com/in/iker-ambriz-rodriguez">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:iker_ambriz@icloud.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
