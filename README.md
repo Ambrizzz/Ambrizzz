@@ -53,6 +53,7 @@
     <td width="33%">
       <h4>⚽ WorldCupSwap</h4>
       <p>App for tracking and trading 2026 World Cup sticker albums. Built with Firebase + Vercel — UI, responsive design, and auth.</p>
+      <a href="https://github.com/Ambrizzz/WorldCupSwap">Go to the repository →</a>
     </td>
   </tr>
 </table>
