@@ -4,7 +4,7 @@
 
 </div>
 
-<h3 align="center">Computer Science student @ Tecnológico de Monterrey 🇲🇽</h3>
+<h3 align="center">Software Engineering & CS student @ Tecnológico de Monterrey 🇲🇽</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;Building+full-stack+web+apps;Always+shipping+side+projects;Based+in+Mexico+City;&font=Fira+Code&center=true&width=440&height=40&color=38bdf8&vCenter=true&size=22" />
@@ -14,7 +14,8 @@
 
 ### 🚀 About Me
 
-- 🎓 Studying **Computer Science** at **Tec de Monterrey**
+- 🎓 Studying **Software Engineering & Computer Science** at **Tec de Monterrey**
+- 🧑‍🏫 Volunteered as staff at the **Patrones Hermosos** STEM camp
 - 💻 I like building and shipping full-stack web apps end to end — frontend, backend, and deployment
 - 🌱 Currently exploring new stacks and leveling up my web dev skills
 - 📫 Reach me on the links below!
@@ -53,18 +54,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ambrizzz&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img width="100%" src="./profile/activity-graph.svg" />
-</div>
-
 ---
 
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/iker-ambriz-rodriguez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/YOUR-X-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:iker_ambriz@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <div align="center">
