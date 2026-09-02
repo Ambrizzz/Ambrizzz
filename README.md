@@ -22,6 +22,14 @@
 
 ---
 
+### 🧰 Languages & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,c++,html,css,mysql,firebase,vercel,git,github" />
+</div>
+
+---
+
 ### 🛠️ Featured Projects
 
 <table>
@@ -52,14 +60,6 @@
 
 <div align="center">
   <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Ambrizzz&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### 🧰 Languages & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,firebase,vercel,git,github" />
 </div>
 
 ---
