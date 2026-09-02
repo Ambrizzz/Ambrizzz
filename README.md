@@ -47,11 +47,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="220" src="./profile/top-langs.svg" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ambrizzz&theme=tokyonight&hide_border=true" />
+  <img width="400" src="./profile/top-langs.svg" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Ambrizzz&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
