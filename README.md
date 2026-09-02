@@ -61,10 +61,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="800" src="https://ghchart.rshah.org/38bdf8/Ambrizzz" alt="Ambrizzz's contribution graph" />
-</div>
-
-<div align="center">
   <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Ambrizzz&theme=tokyonight&hide_border=true" />
 </div>
 
