@@ -25,7 +25,7 @@
 ### 🧰 Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,c++,html,css,mysql,firebase,vercel,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,python,c++,html,cpp,mysql,firebase,vercel,git,github" />
 </div>
 
 ---
