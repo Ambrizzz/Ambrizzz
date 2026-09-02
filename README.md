@@ -46,7 +46,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="./profile/stats.svg" />
   <img height="165" src="./profile/top-langs.svg" />
 </div>
 
@@ -54,12 +53,28 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ambrizzz&theme=tokyonight&hide_border=true" />
 </div>
 
+### 🏆 Trophies
+
+<div align="center">
+  <img src="./profile/trophy.svg" />
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg" />
+    <img alt="github contribution snake animation" src="./profile/snake.svg" />
+  </picture>
+</div>
+
 ---
 
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/iker-ambriz-rodriguez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/iker-ambriz-rodriguez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/YOUR-X-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:iker_ambriz@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
