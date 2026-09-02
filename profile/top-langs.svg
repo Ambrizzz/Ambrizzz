@@ -1,8 +1,8 @@
 
       <svg
-        width="350"
-        height="215"
-        viewBox="0 0 350 215"
+        width="300"
+        height="350"
+        viewBox="0 0 300 350"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #fe428e;
+            fill: #70a5fd;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -38,7 +38,7 @@
       }
     }
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #a9fef7;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #38bdae;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -47,7 +47,7 @@
     .bold { font-weight: 700 }
     .lang-name {
       font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
-      fill: #a9fef7;
+      fill: #38bdae;
     }
     .stagger {
       opacity: 0;
@@ -92,8 +92,8 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="349"
-          fill="#141321"
+          width="299"
+          fill="#1a1b27"
           stroke-opacity="0"
         />
 
@@ -118,90 +118,81 @@
           transform="translate(0, 55)"
         >
           
-    <svg data-testid="lang-items" x="25">
-      
-    <g transform="translate(0, 0)">
+    <svg data-testid="lang-items">
       <g transform="translate(0, 0)">
-        <g transform="translate(0, 0)">
+        <svg data-testid="pie">
+          
+      <g class="stagger" style="animation-delay: 100ms">
+        <path
+          data-testid="lang-pie"
+          size="66.653145495399"
+          d="M 150 100 L 240 100 A 90 90 0 1 1 104.93379957940587 22.095971993414608 Z"
+          fill="#f1e05a"
+        />
+      </g>
+    
+      <g class="stagger" style="animation-delay: 200ms">
+        <path
+          data-testid="lang-pie"
+          size="24.493981559553163"
+          d="M 150 100 L 104.93379957940587 22.095971993414608 A 90 90 0 0 1 226.4320593360245 52.480106211667206 Z"
+          fill="#663399"
+        />
+      </g>
+    
+      <g class="stagger" style="animation-delay: 300ms">
+        <path
+          data-testid="lang-pie"
+          size="5.505243631756218"
+          d="M 150 100 L 226.4320593360245 52.480106211667206 A 90 90 0 0 1 238.01644058566444 81.20888011239886 Z"
+          fill="#e34c26"
+        />
+      </g>
+    
+      <g class="stagger" style="animation-delay: 400ms">
+        <path
+          data-testid="lang-pie"
+          size="3.3476293132916153"
+          d="M 150 100 L 238.01644058566444 81.20888011239886 A 90 90 0 0 1 240 99.99999999999997 Z"
+          fill="#c6538c"
+        />
+      </g>
+    
+        </svg>
+      </g>
+      <g transform="translate(0, 220)">
+        <svg data-testid="lang-names" x="25">
+          <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         JavaScript 66.65%
       </text>
     </g>
-  </g><g transform="translate(0, 32)">
+  </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         CSS 24.49%
       </text>
     </g>
-  </g><g transform="translate(0, 64)">
-    <g class="stagger" style="animation-delay: 750ms">
+  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         HTML 5.51%
       </text>
     </g>
-  </g><g transform="translate(0, 96)">
-    <g class="stagger" style="animation-delay: 900ms">
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#c6538c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         SCSS 3.35%
       </text>
     </g>
-  </g>
+  </g></g>
+        </svg>
       </g>
-
-      <g transform="translate(125, -45)">
-        <svg width="350" height="350">
-       <g class="stagger" style="animation-delay: 600ms">
-        <path
-          data-testid="lang-donut"
-          size="66.65"
-          d="M 67.62159128566225 145.05137543710688 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
-          stroke="#f1e05a"
-          fill="none"
-          stroke-width="12">
-        </path>
-      </g>
-      
-       <g class="stagger" style="animation-delay: 700ms">
-        <path
-          data-testid="lang-donut"
-          size="24.49"
-          d="M 86.7251863716446 68.55618060745172 A 56.66666666666667 56.66666666666667 0 0 0 67.62159128566225 145.05137543710688"
-          stroke="#663399"
-          fill="none"
-          stroke-width="12">
-        </path>
-      </g>
-      
-       <g class="stagger" style="animation-delay: 800ms">
-        <path
-          data-testid="lang-donut"
-          size="5.51"
-          d="M 104.82696621053003 61.250670742925756 A 56.66666666666667 56.66666666666667 0 0 0 86.7251863716446 68.55618060745172"
-          stroke="#e34c26"
-          fill="none"
-          stroke-width="12">
-        </path>
-      </g>
-      
-       <g class="stagger" style="animation-delay: 900ms">
-        <path
-          data-testid="lang-donut"
-          size="3.35"
-          d="M 116.66666666666671 60 A 56.66666666666667 56.66666666666667 0 0 0 104.82696621053003 61.250670742925756"
-          stroke="#c6538c"
-          fill="none"
-          stroke-width="12">
-        </path>
-      </g>
-      </svg>
-      </g>
-    </g>
-  
     </svg>
   
         </g>
